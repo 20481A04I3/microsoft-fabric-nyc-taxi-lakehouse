@@ -1,0 +1,1 @@
+SELECT * FROM gold_daily_taxi_metrics ORDER BY trip_date ASC;
